@@ -1,0 +1,5 @@
+git clone ...
+cd CS-101
+git add . 
+git commit -m"...."
+git push -u origin master
